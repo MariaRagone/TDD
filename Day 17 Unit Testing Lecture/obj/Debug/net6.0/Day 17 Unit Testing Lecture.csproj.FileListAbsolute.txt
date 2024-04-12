@@ -1,0 +1,15 @@
+C:\Users\maria\source\repos\Day 17 Unit Testing Lecture\Day 17 Unit Testing Lecture\obj\Debug\net6.0\Day 17 Unit Testing Lecture.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\Day 17 Unit Testing Lecture\Day 17 Unit Testing Lecture\obj\Debug\net6.0\Day 17 Unit Testing Lecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\Day 17 Unit Testing Lecture\Day 17 Unit Testing Lecture\obj\Debug\net6.0\Day 17 Unit Testing Lecture.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\Day 17 Unit Testing Lecture\Day 17 Unit Testing Lecture\obj\Debug\net6.0\Day 17 Unit Testing Lecture.AssemblyInfo.cs
+C:\Users\maria\source\repos\Day 17 Unit Testing Lecture\Day 17 Unit Testing Lecture\obj\Debug\net6.0\Day 17 Unit Testing Lecture.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Day 17 Unit Testing Lecture\Day 17 Unit Testing Lecture\bin\Debug\net6.0\Day 17 Unit Testing Lecture.exe
+C:\Users\maria\source\repos\Day 17 Unit Testing Lecture\Day 17 Unit Testing Lecture\bin\Debug\net6.0\Day 17 Unit Testing Lecture.deps.json
+C:\Users\maria\source\repos\Day 17 Unit Testing Lecture\Day 17 Unit Testing Lecture\bin\Debug\net6.0\Day 17 Unit Testing Lecture.runtimeconfig.json
+C:\Users\maria\source\repos\Day 17 Unit Testing Lecture\Day 17 Unit Testing Lecture\bin\Debug\net6.0\Day 17 Unit Testing Lecture.dll
+C:\Users\maria\source\repos\Day 17 Unit Testing Lecture\Day 17 Unit Testing Lecture\bin\Debug\net6.0\Day 17 Unit Testing Lecture.pdb
+C:\Users\maria\source\repos\Day 17 Unit Testing Lecture\Day 17 Unit Testing Lecture\obj\Debug\net6.0\Day 17 Unit Testing Lecture.dll
+C:\Users\maria\source\repos\Day 17 Unit Testing Lecture\Day 17 Unit Testing Lecture\obj\Debug\net6.0\refint\Day 17 Unit Testing Lecture.dll
+C:\Users\maria\source\repos\Day 17 Unit Testing Lecture\Day 17 Unit Testing Lecture\obj\Debug\net6.0\Day 17 Unit Testing Lecture.pdb
+C:\Users\maria\source\repos\Day 17 Unit Testing Lecture\Day 17 Unit Testing Lecture\obj\Debug\net6.0\Day 17 Unit Testing Lecture.genruntimeconfig.cache
+C:\Users\maria\source\repos\Day 17 Unit Testing Lecture\Day 17 Unit Testing Lecture\obj\Debug\net6.0\ref\Day 17 Unit Testing Lecture.dll
